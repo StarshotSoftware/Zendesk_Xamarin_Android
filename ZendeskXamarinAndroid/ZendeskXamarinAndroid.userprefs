@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{34C183D6-73A8-4678-8F43-812E190B1EEF}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.ZendeskXamarinAndroid.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_ARMv7a" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZendeskXamarinAndroid Status">
+    <Files>
+      <File FileName="ZendeskXamarinAndroid Status" />
+      <File FileName="ZendeskXamarinAndroid.Droid/MainApplication.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Views/TicketsView.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Views/TicketdetailsView.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Views/SectionsView.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Views/ArticlesView.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Views/ArticledetailsView.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Services/MessageImageUploadService.cs" Line="8" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Services/FileSystemService.cs" Line="1" Column="1" />
+      <File FileName="ZendeskXamarinAndroid.Droid/Services/DialogsService.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Angel/Documents/Starshot/Zendesk_Xamarin_Android/ZendeskXamarinAndroid/ZendeskXamarinAndroid.Core/ViewModels/ArticleDetailViewModel.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>ZendeskXamarinAndroid.iOS/ZendeskXamarinAndroid.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
