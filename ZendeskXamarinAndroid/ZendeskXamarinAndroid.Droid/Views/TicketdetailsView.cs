@@ -2,7 +2,6 @@
 using Android.OS;
 using ZendeskXamarinAndroid.Core.ViewModels;
 
-
 namespace ZendeskXamarinAndroid.Droid.Views
 {
 	[Activity(Label="My Tickets")]
